@@ -47,8 +47,6 @@ Got it? Get it? Good.
   3. Paste Link
   4. Clone
 
-[html file](https://github.com/fxmountain/website.build/blob/master/index.html)
-
 ## Html preview on Github
 1. Take your [html file](https://github.com/fxmountain/website.build/blob/master/index.html)
 2. Add 
@@ -56,14 +54,16 @@ Got it? Get it? Good.
 http://htmlpreview.github.io/?
 ```
 infont on https://…
+
 3. You get: [something like this](http://htmlpreview.github.io/?https://github.com/fxmountain/website.build/blob/master/index.html)
 
 ## Html preview in Atom
 1. Install “atom-html-preview”
 2. Press CNRL+SHIFT+H while you are on an html document
 
-# Packages you need as a (web-) designer
+## Packages you need as a (web-) designer
 - atom-html-preview /* Preview your html */
 - atom-beautify /* Cleanes your code */
 
-#### Be kind I am a newbie and giving other newbie designers an 
+
+Be kind I am a newbie and giving other newbie designers an 
