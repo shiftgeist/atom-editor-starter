@@ -62,6 +62,12 @@ infont on https://…
 1. Install “atom-html-preview”
 2. Press CNRL+SHIFT+H while you are on an html document
 
+## Install packages in Atom
+1. CNRL+Komma
+2. "+ Install"
+3. Search or past link
+4. Klick on "install"
+
 ## Packages you need as a (web-) designer
 - atom-html-preview /* Preview your html */
 - atom-beautify /* Cleanes your code */
@@ -69,4 +75,4 @@ infont on https://…
 ### By the way
 - Formating [Github Readme.md](https://help.github.com/articles/basic-writing-and-formatting-syntax)
 
-Be kind I am a newbie and giving other newbie designers an 
+Be kind I am a newbie and giving other newbie designers an simple instruction
