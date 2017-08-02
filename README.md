@@ -12,8 +12,8 @@ If you are a designer and want to code your websites with **Atom**, because it's
 ... is an editor.
 
 ## The Setup
-1. Create a Github account
-2. Download Github Desktop
+1. Create a [Github account](https://github.com/join?source=header-home)
+2. Download [Github Desktop](https://desktop.github.com/)
 3. Install Github Desktop
 4. Login (same as on github.com)
 5. Setup github desktop
@@ -42,10 +42,11 @@ Got it? Get it? Good.
 2. Button “Clone or Download”
 3. Copy Link (HTTPS)
 4. Open Github Desktop
-  1. File
-  2. Clone Repository
-  3. Paste Link
-  4. Clone
+    1. File
+    2. Clone Repository
+    3. Paste Link
+    4. Clone
+5. Show some love
 
 ## Html preview on Github
 1. Take your [html file](https://github.com/fxmountain/website.build/blob/master/index.html)
@@ -65,5 +66,7 @@ infont on https://…
 - atom-html-preview /* Preview your html */
 - atom-beautify /* Cleanes your code */
 
+### By the way
+- Formating [Github Readme.md](https://help.github.com/articles/basic-writing-and-formatting-syntax)
 
 Be kind I am a newbie and giving other newbie designers an 
