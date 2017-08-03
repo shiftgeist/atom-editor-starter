@@ -93,10 +93,8 @@ Yes you can watch the "tree" grow and how versions flow together
     - Insights
         - Graph
 
-## Other
+# More
+Realy nice help guides by Github: [Get more](https://guides.github.com/)
 
-### Formating
-[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax)
-
-## Disclaimer
+### Disclaimer
 Be kind I am a newbie and giving other newbie designers an simple instruction
