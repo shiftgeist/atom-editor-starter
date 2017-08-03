@@ -5,11 +5,11 @@ Atom for designers
 If you are a designer and want to code your websites with **Atom**, because it's simply awesome and use **Github** for your choise of cooperation, than this is a small guide for you.
 
 ### Explainaition
-#### Github Desktop
-... is not a editor.
+#### What is Github Desktop for?
+To collaborate with others & work together
 
-#### Atom
-... is an editor.
+#### What is Atom for?
+To write and edit your code
 
 ### The Setup
 1. Create a [Github account](https://github.com/join?source=header-home)
@@ -72,9 +72,31 @@ infont on https://…
 - atom-html-preview /* Preview your html */
 - atom-beautify /* Cleanes your code */
 
-## Some Github goods
+## But what does it mean?
 
-### By the way
-- Formating [Github Readme.md](https://help.github.com/articles/basic-writing-and-formatting-syntax)
+### "Pull"
+Means to "pull a request" - get data from the git repository
 
->Be kind I am a newbie and giving other newbie designers an simple instruction
+### "Push"
+Means to "push a request" - send data to the git repository
+
+### "Fetch origin"
+Syncronise with the git repository
+
+### Branch
+[From Githubs official guide](https://guides.github.com/activities/hello-world/)
+>Branching is the way to work on different versions of a repository at one time.
+
+### Branch visualisation
+Yes you can watch the "tree" grow and how versions flow together
+- Go to your repository
+    - Insights
+        - Graph
+
+## Other
+
+### Formating
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax)
+
+## Disclaimer
+Be kind I am a newbie and giving other newbie designers an simple instruction
