@@ -92,7 +92,7 @@ Yes you can watch the "tree" grow and how versions flow together
 - Go to your repository
     - Insights
         - Graph
-            - Network
+            - [Network](https://github.com/fxmountain/atom-for-designers/network)
 
 # More
 Realy nice help guides by Github: [Get more](https://guides.github.com/)
