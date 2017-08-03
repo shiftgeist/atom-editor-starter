@@ -49,14 +49,14 @@ Got it? Get it? Good.
 5. Show some love
 
 ### Html preview on Github
-1. Take your [html file](https://github.com/fxmountain/website.build/blob/master/index.html)
+1. Take your [html file](https://github.com/fxmountain/atom-for-designers/blob/master/test.html)
 2. Add 
 ```
 http://htmlpreview.github.io/?
 ```
-infont on https://…
+infont of the link.
 
-3. You get: [something like this](http://htmlpreview.github.io/?https://github.com/fxmountain/website.build/blob/master/index.html)
+3. You get: [something like this](http://htmlpreview.github.io/?https://github.com/fxmountain/atom-for-designers/blob/master/test.html)
 
 ### Html preview in Atom
 1. Install “atom-html-preview”
