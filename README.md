@@ -72,6 +72,11 @@ infont on https://…
 - atom-html-preview /* Preview your html */
 - atom-beautify /* Cleanes your code */
 
+### Commit new Code
+- Write a comment
+- Commit
+- Fetch origin
+
 ## But what does it mean?
 
 ### "Pull"
