@@ -50,7 +50,7 @@ Got it? Get it? Good.
 
 ### Html preview on Github
 1. Take your [html file](https://github.com/fxmountain/atom-for-designers/blob/master/test.html)
-2. Add 
+2. Add
 ```
 http://htmlpreview.github.io/?
 ```
@@ -98,6 +98,18 @@ Yes you can watch the "tree" grow and how versions flow together
     - Insights
         - Graph
             - [Network](https://github.com/fxmountain/atom-for-designers/network)
+
+#SCSS
+
+### Installation
+- https://www.youtube.com/watch?v=GIn6w6u-rPY
+
+### Learning
+- Learn sass (scss) http://sass-lang.com/guide
+
+### Atom Packages
+- For prossesing you can use package: "sass-autocompile"
+- To preview non-min css use atom-beautify */
 
 # More
 Realy nice help guides by Github: [Get more](https://guides.github.com/)
